@@ -1,4 +1,4 @@
-package HW.HWtask_2;
+package lesson_1.HW.HWtask_2;
 public class Main {
     public static void main(String[] args) {
         boolean[] primes = new boolean[1001];

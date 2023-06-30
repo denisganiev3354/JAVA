@@ -1,4 +1,4 @@
-package HW.HWtask_3;
+package lesson_1.HW.HWtask_3;
 // Реализовать простой калькулятор
 import java.util.Scanner;
 
