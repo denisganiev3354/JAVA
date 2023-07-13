@@ -1,6 +1,6 @@
 package lesson_4;
 
-public class main {
+public class Program_4 {
 
 
 
