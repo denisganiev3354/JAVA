@@ -2,7 +2,7 @@ package lesson_2;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class Calculator2 {
     
     static Scanner scanner = new Scanner(System.in);
     

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import javax.script.ScriptEngineManager;
 
-public class Program {
+public class Program1 {
 
     static Scanner scanner = new Scanner(System.in);
 
@@ -53,7 +53,7 @@ public class Program {
                 break;
 
             case 6:
-                Calculator.run(args);
+                Calculator1.run(args);
                 break;
 
             case 7:
